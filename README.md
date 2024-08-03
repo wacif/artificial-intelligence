@@ -10,9 +10,6 @@ This repository provides descriptions for each term in two formats:
 
 Each term also includes a real-life example to help understand its application.
 
-## Terms
-
-### [Term Name]
 
 **Technical Description:**
 - Definition: [Provide a detailed, technical definition here.]
@@ -21,8 +18,6 @@ Each term also includes a real-life example to help understand its application.
 **Non-Technical Description:**
 - Definition: [Provide a simplified, easy-to-understand definition here.]
 - Example: [Include a simplified real-life example here.]
-
----
 
 ## Example Terms
 
@@ -58,10 +53,65 @@ Each term also includes a real-life example to help understand its application.
 
 ---
 
+## Terms
+
+# AI Terms
+
+1. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
+2. [Neural Networks](#)
+3. [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+4. [Computer Vision](#computer-vision)
+5. [Reinforcement Learning](#reinforcement-learning)
+6. [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+7. [AI Ethics](#ai-ethics)
+8. [AI Bias](#ai-bias)
+9. [Explainable AI (XAI)](#explainable-ai-xai)
+10. [Turing Test](#turing-test)
+11. [Artificial General Intelligence (AGI)](#artificial-general-intelligence-agi)
+12. [Artificial Narrow Intelligence (ANI)](#artificial-narrow-intelligence-ani)
+13. [Artificial Superintelligence (ASI)](#artificial-superintelligence-asi)
+14. [Robotics](#robotics)
+15. [Expert Systems](#expert-systems)
+16. [Fuzzy Logic](#fuzzy-logic)
+17. [Knowledge Representation](#knowledge-representation)
+18. [Heuristics](#heuristics)
+19. [Bayesian Networks](#bayesian-networks)
+20. [Markov Decision Processes (MDPs)](#markov-decision-processes-mdps)
+21. [Quantum Computing](#quantum-computing)
+22. [Edge AI](#edge-ai)
+23. [Federated Learning](#federated-learning)
+24. [Internet of Things (IoT)](#internet-of-things-iot)
+25. [Smart Cities](#smart-cities)
+26. [Autonomous Vehicles](#autonomous-vehicles)
+27. [Chatbots](#chatbots)
+28. [Speech Recognition](#speech-recognition)
+29. [Image Recognition](#image-recognition)
+30. [Predictive Analytics](#predictive-analytics)
+31. [Big Data](#big-data)
+32. [Data Mining](#data-mining)
+33. [Cognitive Computing](#cognitive-computing)
+34. [Human-Computer Interaction (HCI)](#human-computer-interaction-hci)
+35. [Swarm Intelligence](#swarm-intelligence)
+36. [Evolutionary Algorithms](#evolutionary-algorithms)
+37. [Meta-Learning](#meta-learning)
+38. [Zero-Shot Learning](#zero-shot-learning)
+39. [Few-Shot Learning](#few-shot-learning)
+40. [Multimodal Learning](#multimodal-learning)
+41. [Adversarial Machine Learning](#adversarial-machine-learning)
+42. [Capsule Networks](#capsule-networks)
+43. [Graph Neural Networks (GNNs)](#graph-neural-networks-gnns)
+44. [Self-Supervised Learning](#self-supervised-learning)
+
+
+
+---
+
+
+
 ## Contributions
 
 Feel free to contribute to this repository by adding new terms, improving existing descriptions, or providing additional real-life examples. Please follow the format provided above for consistency.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
